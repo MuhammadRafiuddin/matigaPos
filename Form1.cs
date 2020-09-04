@@ -16,5 +16,10 @@ namespace MatigaPos
         {
             InitializeComponent();
         }
+
+        private void bARANGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

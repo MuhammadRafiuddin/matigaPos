@@ -1,0 +1,10 @@
+D:\10_PROJECT\MatigaPos\bin\Debug\MatigaPos.exe.config
+D:\10_PROJECT\MatigaPos\bin\Debug\MatigaPos.exe
+D:\10_PROJECT\MatigaPos\bin\Debug\MatigaPos.pdb
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.csprojAssemblyReference.cache
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.Form1.resources
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.Properties.Resources.resources
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.csproj.GenerateResource.cache
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.csproj.CoreCompileInputs.cache
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.exe
+D:\10_PROJECT\MatigaPos\obj\Debug\MatigaPos.pdb
